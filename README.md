@@ -19,6 +19,7 @@
 	* 4° posto: **130**
 	* ...
 	* 8° posto: **170**
+
 * Numero **illimitato** di svincoli e acquisti
 * In caso di svincoli, l'utente riprenderà il:
 	* **100%** dei crediti in caso il giocatore vada in un altro campionato
@@ -29,8 +30,9 @@
 * Non si può svincolare un giocatore acquistato nella stessa sessione del mercato di riparazione
 
 #### Valorizzazione scouting
-* L'acquisto di un calciatore dà diritto alla possibilità di acquisto dello stesso (qualora continuasse a giocare nel campionato italiano di Serie A), durante l'asta di settembre della stagione successiva pagandolo il massimo fra il triplo della valutazione di fantagazzetta e il triplo della spesa effettuata l'anno precedente per acquistarlo (esempio: Vlahovic comprato a 5 ma valutato 20, può essere ricomprato a 60 in quanto il massimo fra 20x3 e 5x3).
-* Entrambe le finestre di mercato (asta di settembre e riparazione di febbraio) sono valide per usufruire della valorizzazione).
+* L'acquisto di un calciatore dà diritto alla possibilità di acquisto dello stesso (qualora continuasse a giocare nel campionato di Serie A), durante l'asta della stagione successiva pagandolo **il massimo fra il triplo della valutazione di fantacalcio.it e il triplo della spesa effettuata l'anno precedente** per acquistarlo (esempio: Vlahovic comprato a 5 ma valutato 20, può essere ricomprato a 60 in quanto il massimo fra 20x3 e 5x3)
+* Entrambe le finestre di mercato (asta di settembre e riparazione di febbraio) sono valide per usufruire della valorizzazione)
+* Lo stesso giocatore non potrà essere acquistato tramite la modalità *scouting* più di una volta
 
 ### Regole rinvio partite
 * Con **4 o più partite** rinviate a data da destinarsi, si attenderanno i recuperi per assegnare i voti. Altrimenti varrà il 6 politico per tutti i giocatori delle squadre delle partite rinviate, anche quelli indisponibili per infortunio o squalifica
