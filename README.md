@@ -1,4 +1,8 @@
 # Regolamento fantainformatica 2021-22
+
+- Presidente: Andrea `@andrea9lli`
+- Vice-presidente: Marco `@mlsmrc`
+
 ## Modalità CLASSIC
 
 ### Regole mercato iniziale
