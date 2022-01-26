@@ -28,6 +28,10 @@
 * Si può riacquistare un giocatore precedentemente svincolato pagandolo la stessa cifra che era stato pagato originariamente, nel caso non ci siano offerte di altri utenti
 * Non si può svincolare un giocatore acquistato nella stessa sessione del mercato di riparazione
 
+#### Valorizzazione scouting
+* L'acquisto di un calciatore dà diritto alla possibilità di acquisto dello stesso (qualora continuasse a giocare nel campionato italiano di Serie A), durante l'asta di settembre della stagione successiva pagandolo il massimo fra il triplo della valutazione di fantagazzetta e il triplo della spesa effettuata l'anno precedente per acquistarlo (esempio: Vlahovic comprato a 5 ma valutato 20, può essere ricomprato a 60 in quanto il massimo fra 20x3 e 5x3).
+* Entrambe le finestre di mercato (asta di settembre e riparazione di febbraio) sono valide per usufruire della valorizzazione).
+
 ### Regole rinvio partite
 * Con **4 o più partite** rinviate a data da destinarsi, si attenderanno i recuperi per assegnare i voti. Altrimenti varrà il 6 politico per tutti i giocatori delle squadre delle partite rinviate, anche quelli indisponibili per infortunio o squalifica
 
@@ -81,12 +85,12 @@
 #### Calcolo avanzato
 * Modificatore PORTIERE: **NO**
 * Modificatore DIFESA: **SI, includendo il portiere, con applicazione bonus/malus alla propria squadra**
-	* < 6 ---> 0
+	* \< 6 ---> 0
 	* da 6 a 6.24 ---> +1
 	* da 6.25 a 6.49 ---> +2
 	* da 6.50 a 6.74 ---> +3
 	* da 6.75 a 6.99 ---> +4
-	* >= 7 ---> +6
+	* \>= 7 ---> +6
 * Modificatore CENTROCAMPO: **NO**
 * Modificatore ATTACCO: **NO**
 * Modificatore FAIRPLAY: **NO**
