@@ -44,9 +44,9 @@
 * Non si può svincolare un giocatore acquistato nella stessa sessione del mercato di riparazione
 
 #### Valorizzazione scouting
-* L'acquisto di un calciatore dà diritto alla possibilità di acquisto dello stesso (qualora continuasse a giocare nel campionato di Serie A), durante l'asta della stagione successiva pagandolo **il massimo fra il triplo della valutazione di fantacalcio.it e il triplo della spesa effettuata l'anno precedente** per acquistarlo (esempio: Vlahovic comprato a 5 ma valutato 20, può essere ricomprato a 60 in quanto il massimo fra 20x3 e 5x3)
+* L'acquisto di un calciatore dà diritto alla possibilità di acquisto dello stesso (qualora continuasse a giocare nel campionato di Serie A), durante l'asta  estiva della stagione successiva pagandolo **il massimo fra il triplo della valutazione di fantacalcio.it e il triplo della spesa effettuata l'anno precedente** per acquistarlo (esempio: Vlahovic comprato a 5 ma valutato 20, può essere ricomprato a 60 in quanto il massimo fra 20x3 e 5x3)
 * Solo la finestra di mercato estiva è valida per usufruire della valorizzazione
-* Lo stesso giocatore non potrà essere acquistato tramite la modalità *scouting* dallo stesso utente per più anni consecutivi 
+* L'opzione `Valorizzazione scouting` è valida solo l'anno successivo all'acquisto del giocatore
 
 ### Regole rinvio partite
 * Con **4 o più partite** rinviate a data da destinarsi, si attenderanno i recuperi per assegnare i voti. Altrimenti varrà il 6 politico per tutti i giocatori delle squadre delle partite rinviate, anche quelli indisponibili per infortunio o squalifica. 
@@ -157,47 +157,3 @@
 	2. Supplementari e rigori
 	3. Somma punta
 	4. Ex criterio UEFA gol trasferta
-
-***
-
-# Albo d'oro
-
-## 2020/2021
-* *Campionato*: **Andrea**
-
-* *Coppa*: **Andrea**
-
-
-## 2019/2020
-* *Campionato*: **Alessandro**
-
-* *Coppa*: **Alessandro**
-
-
-## 2018/2019
-* *Campionato*: **Fabrizio & Francesco**
-
-* *Coppa*: **Jacopo**
-
-
-## 2017/2018
-* *Campionato*: **Lorenzo**
-
-* *Coppa*: **Jacopo**
-
-
-## 2016/2017
-* *Campionato*: **Marco M.**
-
-* *Coppa*: **Marco M.**
-
-
-## 2015/2016
-* *Campionato*: **Fabrizio & Francesco**
-
-* *Coppa*: -
-
-## 2014/2015
-* *Campionato*: **Alessandro**
-
-* *Coppa*: -
