@@ -44,7 +44,7 @@
 * Non si può svincolare un giocatore acquistato nella stessa sessione del mercato di riparazione
 
 #### Valorizzazione scouting
-* L'acquisto di un calciatore dà diritto alla possibilità di acquisto dello stesso (qualora continuasse a giocare nel campionato di Serie A), durante l'asta  estiva della stagione successiva pagandolo **il massimo fra il triplo della valutazione di fantacalcio.it e il triplo della spesa effettuata l'anno precedente** per acquistarlo (esempio: Vlahovic comprato a 5 ma valutato 20, può essere ricomprato a 60 in quanto il massimo fra 20x3 e 5x3)
+* L'acquisto di un calciatore durante l'asta estiva dà diritto alla possibilità di acquisto dello stesso (qualora continuasse a giocare nel campionato di Serie A), durante l'asta  estiva della stagione successiva pagandolo **il massimo fra il triplo della valutazione di fantacalcio.it e il triplo della spesa effettuata l'anno precedente** per acquistarlo (esempio: Vlahovic comprato a 5 ma valutato 20, può essere ricomprato a 60 in quanto il massimo fra 20x3 e 5x3)
 * Solo la finestra di mercato estiva è valida per usufruire della valorizzazione
 * L'opzione `Valorizzazione scouting` è valida solo l'anno successivo all'acquisto del giocatore
 
