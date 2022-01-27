@@ -1,12 +1,22 @@
-# Regolamento fantainformatica 2021-22
+# Regolamento Fantainformatica 2021-22
 
 - Presidente: Andrea `@andrea9lli`
 - Vice-presidente: Marco `@mlsmrc`
 
 ## Modalità CLASSIC
 
+### Montepremi
+* Quota di partecipazione: **50€**
+* Campionato
+	* 1° posto: **200€** (50% del totale)
+	* 2° posto: **100€** (25% del totale)
+	* 3° posto: **50€** (12.5% del totale)
+* Coppa:
+	* Vincitore: **50€** (12.5% del totale)
+
+
 ### Regole mercato iniziale
-* Minimo squadre: **8**
+* Partecipanti: **8** o superiori
 * Budget iniziale: **500** crediti
 * Base d'asta: **1**
 * Modalità d'asta: Asta a chiamata libera per ruolo (P -> D -> C -> A)
@@ -35,11 +45,12 @@
 
 #### Valorizzazione scouting
 * L'acquisto di un calciatore dà diritto alla possibilità di acquisto dello stesso (qualora continuasse a giocare nel campionato di Serie A), durante l'asta della stagione successiva pagandolo **il massimo fra il triplo della valutazione di fantacalcio.it e il triplo della spesa effettuata l'anno precedente** per acquistarlo (esempio: Vlahovic comprato a 5 ma valutato 20, può essere ricomprato a 60 in quanto il massimo fra 20x3 e 5x3)
-* Entrambe le finestre di mercato (asta di settembre e riparazione di febbraio) sono valide per usufruire della valorizzazione)
-* Lo stesso giocatore non potrà essere acquistato tramite la modalità *scouting* più di una volta
+* Solo la finestra di mercato estiva è valida per usufruire della valorizzazione
+* Lo stesso giocatore non potrà essere acquistato tramite la modalità *scouting* dallo stesso utente per più anni consecutivi 
 
 ### Regole rinvio partite
-* Con **4 o più partite** rinviate a data da destinarsi, si attenderanno i recuperi per assegnare i voti. Altrimenti varrà il 6 politico per tutti i giocatori delle squadre delle partite rinviate, anche quelli indisponibili per infortunio o squalifica
+* Con **4 o più partite** rinviate a data da destinarsi, si attenderanno i recuperi per assegnare i voti. Altrimenti varrà il 6 politico per tutti i giocatori delle squadre delle partite rinviate, anche quelli indisponibili per infortunio o squalifica. 
+* Nelle partite di Coppa, invece, varrà il 6 politico per ogni gara rinviata e che non verrà rigiocata entro la successiva giornata di Coppa
 
 ### Regole di gioco
 #### Rose
@@ -143,6 +154,50 @@
 
 * Sequenza dei criteri di passaggio turno nella fase finale:
 	1. Incontri
-	2. Supplementari e ritori
+	2. Supplementari e rigori
 	3. Somma punta
 	4. Ex criterio UEFA gol trasferta
+
+***
+
+# Albo d'oro
+
+## 2020/2021
+* *Campionato*: **Andrea**
+
+* *Coppa*: **Andrea**
+
+
+## 2019/2020
+* *Campionato*: **Alessandro**
+
+* *Coppa*: **Alessandro**
+
+
+## 2018/2019
+* *Campionato*: **Fabrizio & Francesco**
+
+* *Coppa*: **Jacopo**
+
+
+## 2017/2018
+* *Campionato*: **Lorenzo**
+
+* *Coppa*: **Jacopo**
+
+
+## 2016/2017
+* *Campionato*: **Marco M.**
+
+* *Coppa*: **Marco M.**
+
+
+## 2015/2016
+* *Campionato*: **Fabrizio & Francesco**
+
+* *Coppa*: -
+
+## 2014/2015
+* *Campionato*: **Alessandro**
+
+* *Coppa*: -
