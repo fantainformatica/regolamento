@@ -2,8 +2,7 @@
 
 - Presidente: Andrea `@andrea9lli`
 - Vice-presidente: Marco `@mlsmrc`
-
-## Modalità CLASSIC
+- Modalità: **CLASSIC**
 
 ### Montepremi
 * Quota di partecipazione: **50€**
@@ -16,10 +15,11 @@
 
 
 ### Regole mercato iniziale
+
 * Partecipanti: **8** o superiori
 * Budget iniziale: **500** crediti
 * Base d'asta: **1**
-* Modalità d'asta: Asta a chiamata libera per ruolo (P -> D -> C -> A)
+* Modalità d'asta: Asta a chiamata libera per ruolo (P --> D --> C --> A)
 * Una sessione di asta al termine della sessione di calciomercato estivo della Serie A (di solito 31 agosto). La data è da concordare
 * Verrà tenuta aperta una sessione di mercato solo scambi tra utenti fino all'inizio della successiva giornata
 
@@ -116,7 +116,7 @@
 	* <= 6 ---> **0**
 	* 6.5 ---> **+0.5**
 	* 7 ---> **+1**
-	* >= 7.5 ---> **+1.5**
+	* \>= 7.5 ---> **+1.5**
 * Il capitano raddoppia la somma dei bonus ottenuti: **NO**
 * Il capitano raddoppia la somma dei malus ottenuti: **NO**
 
