@@ -1,2 +1,8 @@
-# Default
-* @fantainformatica/partecipanti
+# Order is important; the last matching pattern takes the most
+# precedence.
+
+# Gli amministratori valutano tutte le PR tranne che per...
+* @fantainformatica/amministratori
+
+# quelle del regolamento
+README.md @fantainformatica/partecipanti
