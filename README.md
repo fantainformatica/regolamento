@@ -35,6 +35,7 @@
 	* 8° posto: **170**
 
 * Numero **illimitato** di svincoli e acquisti
+* Si può proporre qualsiasi ruolo senza un ordine necessario
 * In caso di svincoli, l'utente riprenderà il:
 	* **100%** dei crediti in caso il giocatore vada in un altro campionato
 	* **50% -1**   dei crediti altrimenti (tranne per i giocatori pagati **1** credito, per i quali verrà restituito **1**)
