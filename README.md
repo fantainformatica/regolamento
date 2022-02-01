@@ -158,3 +158,17 @@
 	2. Supplementari e rigori
 	3. Somma punta
 	4. Ex criterio UEFA gol trasferta
+
+### Cambio regolamento
+
+#### Proprietari principali
+* Si definiscono **principali proprietari** coloro che, segnalati ad inizio campionato, amministrano principalmente la squadra
+* I principali proprietari vengono identificati su Github nel gruppo "proprietari" e sono i responsabili della revisione di ogni cambiamento proposto mediante Pull Request
+* Non puó esserci piú di un principale proprietario per squadra
+
+#### Come proporre un cambio di regolamento
+
+* Una proposta di cambio di regolamento é rappresentata da una richiesta di Pull Request su questa repository
+* Le proposte di cambio possono pervenire durante qualsiasi momento del campionato
+* le proposte di cambio vengono revisionate solo durante un'asta di fantamercato (iniziale o riparazione)
+* Una proposta si definisce accettata solo per accettazione del **50%+1** (es. giocando in 8 squadre, almeno 5 squadre devono accettare il cambio) dei **principali proprietari**
