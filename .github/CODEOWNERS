@@ -2,7 +2,8 @@
 # precedence.
 
 # Gli amministratori valutano tutte le PR tranne che per...
-* @fantainformatica/amministratori
+albo.md   @fantainformatica/amministratori
+.github/* @fantainformatica/amministratori
 
-# quelle del regolamento
-README.md @fantainformatica/proprietari
+# I proprietari gestiscono il cambio di regolamento
+README.md  @fantainformatica/proprietari
