@@ -5,13 +5,14 @@
 - Modalità: **CLASSIC**
 
 ### Montepremi
-* Quota di partecipazione: **50€**
-* Campionato
-	* 1° posto: **200€** (50% del totale)
-	* 2° posto: **100€** (25% del totale)
-	* 3° posto: **50€** (12.5% del totale)
-* Coppa:
-	* Vincitore: **50€** (12.5% del totale)
+* Quota di partecipazione: **60€**
+* Campionato andata e ritorno
+	* 1° posto: **130€** (27% del totale)
+	* 2° posto: **70€** (14% del totale)
+* Coppe:
+	* Vincitore Champion's: **40€** (8% del totale)
+	* Vincitore Europa League: **20€** (4% del totale)
+	* Vincitore Supercoppa: **20€** (4% del totale)
 
 
 ### Regole mercato iniziale
@@ -122,10 +123,11 @@
 * Il capitano raddoppia la somma dei malus ottenuti: **NO**
 
 ### Competizioni
-#### Campionato
+#### Campionato andata e ritorno
 * Competizione **a calendario**
 * Struttura dei gironi: **Andata e ritorno più eventuale girone in campo neutro**
 * Inizio: prima giornata successiva all'asta estiva
+* Fine andata: metà delle partite disponibili (es. prima partita 4a di andata del campionato italiano. Rimanendone 34 disponibili, vengono divise in 17 di andata e 17 di ritorno)
 * Fattore campo: **+2** (escluso eventuale ultimo girone neutro)
 * Sequenza dei criteri di ordinamento classifica:
 	1. Punti
@@ -135,15 +137,15 @@
 	5. Classifica avulsa
 	6. Gol subiti
 	
-#### Coppa
-* Competizione **a gruppi**
+#### Coppe
+* Competizione **ad eliminazione diretta**
 * Numero di gruppi: **2**
-* Composizione gruppi:
-	* Gruppo 1: **prime 4** in classifica di campionato al termine del girone di andata
-	* Gruppo 2: **ultime 4** in classifica di campionato al termine del girone di andata
+* Composizione coppe:
+	* Champion's: **prime 4** in classifica di campionato al termine del girone di andata
+	* Europa League: **ultime 4** in classifica di campionato al termine del girone di andata
 * Struttura degli incontri:
-	* Fase a gruppi: **Andata e ritorno (calendario ritorno invertito)**
-	* Fase finale: **Andata e ritorno e finale secca**
+	* Semifinale: **Andata e ritorno**
+	* Finale: **Andata e ritorno e finale secca**
 * Fattore campo: **+2** (esclusa la finale)
 * Sequenza dei criteri di ordinamento classifica:
 	1. Punti
