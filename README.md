@@ -10,9 +10,9 @@
 	* 1° posto: **130€** (27% del totale)
 	* 2° posto: **70€** (14% del totale)
 * Coppe:
-	* Vincitore Champion's: **40€** (8% del totale)
+	* Vincitore Champion's: **25€** (8% del totale)
 	* Vincitore Europa League: **20€** (4% del totale)
-	* Vincitore Supercoppa: **20€** (4% del totale)
+	* Vincitore Supercoppa: **15€** (4% del totale)
 
 
 ### Regole mercato iniziale
@@ -123,11 +123,10 @@
 * Il capitano raddoppia la somma dei malus ottenuti: **NO**
 
 ### Competizioni
-#### Campionato andata e ritorno
+#### Campionato di apertura e di clausura
 * Competizione **a calendario**
-* Struttura dei gironi: **Andata e ritorno più eventuale girone in campo neutro**
-* Inizio: prima giornata successiva all'asta estiva
-* Fine andata: metà delle partite disponibili (es. prima partita 4a di andata del campionato italiano. Rimanendone 34 disponibili, vengono divise in 17 di andata e 17 di ritorno)
+* Inizio apertura: prima giornata successiva all'asta estiva
+* Fine clausura: metà delle partite disponibili (es. prima partita 6a di andata del campionato italiano. Rimanendone 32 disponibili, vengono divise in 16 di apertura e 16 di clausura)
 * Fattore campo: **+2** (escluso eventuale ultimo girone neutro)
 * Sequenza dei criteri di ordinamento classifica:
 	1. Punti
@@ -141,11 +140,11 @@
 * Competizione **ad eliminazione diretta**
 * Numero di gruppi: **2**
 * Composizione coppe:
-	* Champion's: **prime 4** in classifica di campionato al termine del girone di andata
-	* Europa League: **ultime 4** in classifica di campionato al termine del girone di andata
+	* Champion's League: **prime 4** in classifica di campionato al termine del campionato di apertura
+	* Europa League: **ultime 4** in classifica di campionato al termine del campionato di apertura
 * Struttura degli incontri:
 	* Semifinale: **Andata e ritorno**
-	* Finale: **Andata e ritorno e finale secca**
+	* Finale: **Partita unica**
 * Fattore campo: **+2** (esclusa la finale)
 * Sequenza dei criteri di ordinamento classifica:
 	1. Punti
