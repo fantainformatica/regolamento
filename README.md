@@ -127,7 +127,7 @@
 * Competizione **a calendario**
 * Inizio apertura: prima giornata successiva all'asta estiva
 * Fine clausura: metà delle partite disponibili (es. prima partita 6a di andata del campionato italiano. Rimanendone 32 disponibili, vengono divise in 16 di apertura e 16 di clausura)
-* Fattore campo: **+2** (escluso eventuale ultimo girone neutro)
+* Fattore campo: **+2**
 * Sequenza dei criteri di ordinamento classifica:
 	1. Punti
 	2. Somma punti totale
