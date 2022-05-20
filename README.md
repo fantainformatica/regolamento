@@ -7,12 +7,12 @@
 ### Montepremi
 * Quota di partecipazione: **60€**
 * Campionato andata e ritorno
-	* 1° posto: **130€** (27% del totale)
+	* 1° posto: **140€** (29% del totale)
 	* 2° posto: **70€** (14% del totale)
 * Coppe:
-	* Vincitore Champion's: **25€** (8% del totale)
+	* Vincitore Champion's: **30€** (6% del totale)
 	* Vincitore Europa League: **20€** (4% del totale)
-	* Vincitore Supercoppa: **15€** (4% del totale)
+	* Vincitore Supercoppa: **10€** (2% del totale)
 
 
 ### Regole mercato iniziale
